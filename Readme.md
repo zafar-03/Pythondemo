@@ -8,3 +8,6 @@ New Content
 - Print Function 
 - Input Function 
 - Operators
+
+### Output :
+![Output](output.png)

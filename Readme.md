@@ -5,3 +5,6 @@ This is a Readme File.
 New Content
 
 ### Covered Topics:
+Print Function 
+Input Function 
+Operators
